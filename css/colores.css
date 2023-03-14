@@ -17,28 +17,37 @@ span {
 }
 .color-rojo {
     background-color: red;
+    display: inline-block;
 }
 .color-verde {
     background-color: green;
+    display: inline-block;
 }
-.color-lightslategrey {
-    background-color: lightslategrey;
+.color-bisque {
+    background-color: bisque;
+    display: inline-block; 
 }
 .color-255-0-0 {
     background-color: rgb(255, 0, 0);
+    display: inline-block;
 }
 .color-255-255-0 {
     background-color: rgb(255, 255, 0);
+    display: inline-block;
 }
 .color-100-87-80 {
     background-color: rgb(100, 87, 80);
+    display: inline-block;
 }
 .color-ff25a7 {
     background-color: #ff25a7;
+    display: inline-block;
 }
 .color-ff8000 {
     background-color: #ff8000;
+    display: inline-block;
 }
 .color-00ffff {
     background-color: #00ffff;
+    display: inline-block;
 }
