@@ -1,0 +1,16 @@
+form{
+    font-family: lato, sans-serif;
+}
+body{
+    background-color: aqua;
+}
+label{
+    display: block;
+}
+input [type="text"]{
+    display: block;
+}
+select{
+    cursor: pointer;
+}
+
